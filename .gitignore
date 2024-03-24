@@ -1,0 +1,7 @@
+.vscode
+.conda
+bin
+lib
+.idea
+pyvenv.cfg
+**__pycache__**
